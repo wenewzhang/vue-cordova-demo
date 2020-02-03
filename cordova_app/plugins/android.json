@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "net.z9p.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "net.z9p.app"
     }
   },
   "dependent_plugins": {}
