@@ -8,6 +8,23 @@ vue create vue-cordova-demo
 ```
 cordova create cordova_app net.z9p.app "Z9P Blog"
 ```
+## 3. Add i18n supports
+```
+vue add i18n
+```
+## 4. Add android supports
+```
+cd cordova_app
+cordova platform add android
+```
+
+## 5. Run now
+```
+npm install
+npm run build
+cd cordova_app
+cordova run
+```
 
 ## Project setup
 ```
