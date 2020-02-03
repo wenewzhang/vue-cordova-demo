@@ -1,5 +1,14 @@
 # vue-cordova-demo
 
+## 1. Create Vue project
+```
+vue create vue-cordova-demo
+```
+## 2. Create Cordova project
+```
+cordova create cordova_app net.z9p.app "Z9P Blog"
+```
+
 ## Project setup
 ```
 npm install
