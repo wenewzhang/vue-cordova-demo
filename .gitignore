@@ -21,3 +21,4 @@ yarn-error.log*
 *.sw?
 cordova_app/www
 cordova_app/node_modules
+cordova_app/platforms
